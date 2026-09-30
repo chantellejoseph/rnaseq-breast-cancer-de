@@ -1,4 +1,4 @@
-#Bioconductor Packahes
+#Bioconductor Packages
 
 if (!require("BiocManager", quietly = TRUE))
   install.packages("BiocManager")
